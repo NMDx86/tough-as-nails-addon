@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.example.tanaddon.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"FilledCanteenMixin",
+		"EmptyCanteenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
