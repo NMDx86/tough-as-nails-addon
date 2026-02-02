@@ -1,4 +1,4 @@
-package com.example.tanaddon.mixin;
+package com.nmdx86.tanaddon.mixin;
 
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.entity.Entity;

@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "tan-addon",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"name": "Tough As Nails Addon & Fixes",
 	"description": "Restore lost functionalities due to bugs to the mod and add new changes.",
 	"authors": [
@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.tanaddon.ToughAsNailsAddon"
+			"com.nmdx86.tanaddon.ToughAsNailsAddon"
 		]
 	},
 	"mixins": [

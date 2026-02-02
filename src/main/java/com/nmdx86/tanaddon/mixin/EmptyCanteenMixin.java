@@ -1,4 +1,4 @@
-package com.example.tanaddon.mixin;
+package com.nmdx86.tanaddon.mixin;
 
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Item.Properties;

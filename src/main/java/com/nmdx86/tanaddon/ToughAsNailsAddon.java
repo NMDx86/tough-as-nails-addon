@@ -1,4 +1,4 @@
-package com.example.tanaddon;
+package com.nmdx86.tanaddon;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
