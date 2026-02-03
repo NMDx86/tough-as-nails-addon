@@ -9,10 +9,10 @@
 	],
 	"contact": {
 		"homepage": "https://discord.com/invite/UnWapKuzxS",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/NMDx86/tough-as-nails-addon"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/tough-as-nails-addon/icon.png",
+	"license": "GPLv3",
+	"icon": "assets/tough-as-nails-addon/icon.jpg",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -24,8 +24,8 @@
 	],
 	"depends": {
 		"fabricloader": "*",
-		"minecraft": "*",
-		"java": "*",
+		"minecraft": ">=1.21",
+		"java": "21",
 		"toughasnails": "*"
 	}
 }

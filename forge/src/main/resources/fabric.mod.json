@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "tan-addon",
+	"version": "1.1.0",
+	"name": "Tough As Nails Addon & Fixes",
+	"description": "Restore lost functionalities due to bugs to the mod and add new changes.",
+	"authors": [
+		"MiyamuraOri"
+	],
+	"contact": {
+		"homepage": "https://discord.com/invite/UnWapKuzxS",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "GPLv3",
+	"icon": "assets/tough-as-nails-addon/icon.jpg",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.nmdx86.tanaddon.ToughAsNailsAddon"
+		]
+	},
+	"mixins": [
+		"tough-as-nails-addon.mixins.json"
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": "*",
+		"java": "*",
+		"toughasnails": "*"
+	}
+}

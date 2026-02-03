@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d95bd086-5488-45b3-bb49-f2c33f572e5f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nmdx86/tanaddon/ToughAsNailsAddon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nmdx86/tanaddon/mixin/EmptyCanteenMixin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nmdx86/tanaddon/mixin/FilledCanteenMixin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nmdx86/tanaddon/mixin/TemperaturePropertyMixin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nmdx86/tanaddon/utils/CacheKey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tough-as-nails-addon/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/damage_type/no_knockback.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/item/enchantable/chest_armor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/item/enchantable/foot_armor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/item/enchantable/head_armor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/minecraft/tags/item/enchantable/leg_armor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/item/heating_consumed_items.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/item/hydration/10_hydration_drinks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/item/hydration/40_hydration_drinks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/item/poison_chance/25_poison_chance_drinks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/item/thirst/1_thirst_drinks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/item/thirst/2_thirst_drinks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/item/thirst/4_thirst_drinks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/worldgen/biome/cold_biomes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/worldgen/biome/dirty_water_biomes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/worldgen/biome/hot_biomes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/worldgen/biome/icy_biomes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/worldgen/biome/neutral_biomes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/worldgen/biome/purified_water_biomes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/toughasnails/tags/worldgen/biome/warm_biomes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tough-as-nails-addon.mixins.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tough-as-nails-addon" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tough-as-nails-addon" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tough-as-nails-addon" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-237e5ad3cb/1.21.10-loom.mappings.1_21_10.layered+hash.2198-v2/minecraft-merged-237e5ad3cb-1.21.10-loom.mappings.1_21_10.layered+hash.2198-v2.jar!/net/minecraft/world/entity/animal/coppergolem/CopperGolem.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-merged-237e5ad3cb/1.21.10-loom.mappings.1_21_10.layered+hash.2198-v2/minecraft-merged-237e5ad3cb-1.21.10-loom.mappings.1_21_10.layered+hash.2198-v2.jar!/net/minecraft/world/entity/animal/coppergolem/CopperGolemAi.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38oyDlbqbdYo6deKBSSjckFMWUL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.tough-as-nails-addon [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.tough-as-nails-addon [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.tough-as-nails-addon-template-1.21.10 [:net.fabricmc.devlaunchinjector.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;1.21.1&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;R:/Github Repos/tough-as-nails-addon/src/main/resources/assets/tough-as-nails-addon&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="R:\Github Repos\tough-as-nails-addon\src\main\resources\assets\tough-as-nails-addon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.tough-as-nails-addon [build]">
+    <configuration name="tough-as-nails-addon [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="tough-as-nails-addon [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.tough-as-nails-addon [build]" />
+        <item itemvalue="Gradle.tough-as-nails-addon [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d95bd086-5488-45b3-bb49-f2c33f572e5f" name="Changes" comment="" />
+      <created>1769480101091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769480101091</updated>
+    </task>
+    <servers />
+  </component>
+</project>

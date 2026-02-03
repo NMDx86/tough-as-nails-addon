@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "com.nmdx86.tanaddon.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"FilledCanteenMixin",
+		"EmptyCanteenMixin",
+		"TemperaturePropertyMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

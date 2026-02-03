@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:apple",
+    "minecraft:golden_apple",
+    "minecraft:melon_slice",
+    "minecraft:sweet_berries",
+    "minecraft:glow_berries",
+    "minecraft:mushroom_stew",
+    "minecraft:beetroot_soup",
+    "minecraft:rabbit_stew",
+    "minecraft:suspicious_stew",
+    "minecraft:honey_bottle"
+  ]
+}
